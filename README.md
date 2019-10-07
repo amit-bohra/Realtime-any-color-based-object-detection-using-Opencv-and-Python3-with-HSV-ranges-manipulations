@@ -4,4 +4,5 @@ Run the ".py" file. You will require Opencv2 and Python3.
 Press 1 for Video Cam else 0 for the static image.
 You can move the upper 3 trackbar for Lower HSV and Last 3 trackbar for Values added to Lower HSV (i.e. Upper Ranges)
 Static image is Provided, You can provide of your own also.
+Press "p" for Printing the Lower and Higher HSV ranges.
 
